@@ -25,17 +25,17 @@ An interactive educational tool for visualizing Fourier series approximations of
   - Dynamic equation display
   - Interactive plotting
 
-## Installation
+## Installation (through shell)
 
-1. **Clone the repository:**
+1. **Install required dependencies:**
+   ```bash
+   pip install numpy matplotlib tk
+   ```
+   
+2. **Clone the repository:**
    ```bash
    git clone https://github.com/lordofhash/fourier_simulator.git
    cd fourier_simulator
-   ```
-
-2. **Install required dependencies:**
-   ```bash
-   pip install numpy matplotlib tk
    ```
 
 3. **Run the simulator:**
