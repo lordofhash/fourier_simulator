@@ -29,8 +29,8 @@ An interactive educational tool for visualizing Fourier series approximations of
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/fourier-simulator.git
-   cd fourier-simulator
+   git clone https://github.com/lordofhash/fourier_simulator.git
+   cd fourier_simulator
    ```
 
 2. **Install required dependencies:**
@@ -40,7 +40,7 @@ An interactive educational tool for visualizing Fourier series approximations of
 
 3. **Run the simulator:**
    ```bash
-   python fouriersimulator.py
+   python fouriersimulator[S&S].py
    ```
 
 ## Requirements
@@ -56,7 +56,7 @@ An interactive educational tool for visualizing Fourier series approximations of
 
 1. Launch the application:
    ```bash
-   python fouriersimulator.py
+   python fouriersimulator[S&S].py
    ```
 
 2. Select a wave type from the dropdown menu
