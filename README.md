@@ -40,7 +40,7 @@ An interactive educational tool for visualizing Fourier series approximations of
 
 3. **Run the simulator:**
    ```bash
-   python fouriersimulator[S&S].py
+   python3 "fouriersimulator[S&S].py"
    ```
 
 ## Requirements
