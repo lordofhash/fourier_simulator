@@ -50,6 +50,11 @@ An interactive educational tool for visualizing Fourier series approximations of
 - Matplotlib
 - Tkinter (usually comes with Python)
 
+If any of the python libraries are missing, install them using pip
+```bash
+   pip install tk, numpy, matplotlib
+   ```
+
 ## Usage
 
 ### Basic Usage
