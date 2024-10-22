@@ -35,7 +35,7 @@ An interactive educational tool for visualizing Fourier series approximations of
 
 2. **Install required dependencies:**
    ```bash
-   pip install numpy matplotlib
+   pip install numpy matplotlib tk
    ```
 
 3. **Run the simulator:**
@@ -49,11 +49,7 @@ An interactive educational tool for visualizing Fourier series approximations of
 - NumPy
 - Matplotlib
 - Tkinter (usually comes with Python)
-
-If any of the python libraries are missing, install them using pip
-```bash
-   pip install tk, numpy, matplotlib
-   ```
+  
 
 ## Usage
 
