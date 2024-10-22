@@ -1,4 +1,4 @@
-# Fourier Series Simulator
+# [Fourier Series Simulator](https://github.com/lordofhash/fourier_simulator/)
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.x-green.svg)
